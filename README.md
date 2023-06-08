@@ -12,7 +12,7 @@
 ## 완성 작품
 
 ### 작품 회로도
-
+![화면 캡처 2023-06-08 145809](https://github.com/snsnskssk/music-project/assets/131340991/bbc304f0-627a-4fec-be7c-61f66e1556c2)
 ### 작품 사진
 ![스크린샷 2023-03-16 143411](https://github.com/snsnskssk/music-project/assets/131340991/57f9e745-3721-4012-b823-58c2ba23e839)
 
